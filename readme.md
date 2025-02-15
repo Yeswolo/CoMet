@@ -8,7 +8,7 @@ More content related to metaphorical experience may be uploaded later.
 Project/
 │
 ├── gamelist/
-│   └──WhoIsUndercover/
+│   └──Undercover/
 │   ├── game.py
 │   ├── player.py
 │   ├── prompt
