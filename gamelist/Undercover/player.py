@@ -1,5 +1,5 @@
-from gamelist.WhoIsUndercover.prompt import base_prompt
-from gamelist.WhoIsUndercover.prompt import CoMet as FISA
+from gamelist.Undercover.prompt import base_prompt
+from gamelist.Undercover.prompt import CoMet as FISA
 from utils import call_api
 import config
 import re

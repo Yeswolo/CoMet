@@ -3,7 +3,7 @@ import config
 import time
 import datetime
 
-from gamelist.WhoIsUndercover.game import Game
+from gamelist.Undercover.game import Game
 from utils import get_word_config
 
 

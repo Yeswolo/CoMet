@@ -5,7 +5,7 @@ import config
 import datetime
 import csv
 import random
-from gamelist.WhoIsUndercover.player import Player
+from gamelist.Undercover.player import Player
 from utils import call_api
 
 class Game:
