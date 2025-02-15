@@ -1,0 +1,2 @@
+openai==1.62.0
+Requests==2.32.3

@@ -1,0 +1,402 @@
+[
+    [
+        "bread",
+        "cake"
+    ],
+    [
+        "pineapple",
+        "mango"
+    ],
+    [
+        "cherry",
+        "blueberry"
+    ],
+    [
+        "noodle",
+        "pasta"
+    ],
+    [
+        "Zongzi",
+        "mooncake"
+    ],
+    [
+        "Macaron",
+        "cookie"
+    ],
+    [
+        "Pepper Powder",
+        "Mustard"
+    ],
+    [
+        "pear",
+        "peach"
+    ],
+    [
+        "rice",
+        "noodles"
+    ],
+    [
+        "steamed bun",
+        "dumpling"
+    ],
+    [
+        "dumpling",
+        "wonton"
+    ],
+    [
+        "cake",
+        "biscuit"
+    ],
+    [
+        "apple",
+        "pear"
+    ],
+    [
+        "tomato",
+        "potato"
+    ],
+    [
+        "carrot",
+        "pumpkin"
+    ],
+    [
+        "onion",
+        "garlic"
+    ],
+    [
+        "chicken",
+        "duck"
+    ],
+    [
+        "beef",
+        "mutton"
+    ],
+    [
+        "pork",
+        "ham"
+    ],
+    [
+        "fish",
+        "shrimp"
+    ],
+    [
+        "crab",
+        "shellfish"
+    ],
+    [
+        "milk",
+        "yogurt"
+    ],
+    [
+        "coffee",
+        "tea"
+    ],
+    [
+        "juice",
+        "soda"
+    ],
+    [
+        "chocolate",
+        "candy"
+    ],
+    [
+        "ketchup",
+        "chili sauce"
+    ],
+    [
+        "soy sauce",
+        "vinegar"
+    ],
+    [
+        "honey",
+        "syrup"
+    ],
+    [
+        "olive oil",
+        "canola oil"
+    ],
+    [
+        "yogurt",
+        "cheese"
+    ],
+    [
+        "wine",
+        "beer"
+    ],
+    [
+        "baijiu",
+        "whiskey"
+    ],
+    [
+        "green tea",
+        "black tea"
+    ],
+    [
+        "coffee",
+        "latte"
+    ],
+    [
+        "juice",
+        "jam"
+    ],
+    [
+        "chocolate",
+        "cocoa"
+    ],
+    [
+        "ice cream",
+        "sherbet"
+    ],
+    [
+        "pudding",
+        "jelly"
+    ],
+    [
+        "roast meat",
+        "roast chicken"
+    ],
+    [
+        "Peking duck",
+        "roast goose"
+    ],
+    [
+        "sushi",
+        "sashimi"
+    ],
+    [
+        "hamburger",
+        "hot dog"
+    ],
+    [
+        "pizza",
+        "pasta"
+    ],
+    [
+        "oats",
+        "cornflakes"
+    ],
+    [
+        "nuts",
+        "sunflower seeds"
+    ],
+    [
+        "soy milk",
+        "bean milk"
+    ],
+    [
+        "yogurt",
+        "sour milk"
+    ],
+    [
+        "juice",
+        "fruit tea"
+    ],
+    [
+        "honey water",
+        "sugar water"
+    ],
+    [
+        "lemon water",
+        "orange juice"
+    ],
+    [
+        "coffee",
+        "mocha"
+    ],
+    [
+        "milk tea",
+        "green milk tea"
+    ],
+    [
+        "hot chocolate",
+        "chocolate milk"
+    ],
+    [
+        "boiled water",
+        "mineral water"
+    ],
+    [
+        "green tea",
+        "oolong tea"
+    ],
+    [
+        "black tea",
+        "pu-erh tea"
+    ],
+    [
+        "flower tea",
+        "fruit tea"
+    ],
+    [
+        "rice wine",
+        "yellow wine"
+    ],
+    [
+        "beer",
+        "light beer"
+    ],
+    [
+        "baijiu",
+        "vodka"
+    ],
+    [
+        "juice",
+        "vegetable juice"
+    ],
+    [
+        "salad dressing",
+        "mayonnaise"
+    ],
+    [
+        "ketchup",
+        "mustard"
+    ],
+    [
+        "corn",
+        "popcorn"
+    ],
+    [
+        "sweet potato",
+        "purple sweet potato"
+    ],
+    [
+        "pumpkin",
+        "wax gourd"
+    ],
+    [
+        "broccoli",
+        "cauliflower"
+    ],
+    [
+        "spinach",
+        "lettuce"
+    ],
+    [
+        "celery",
+        "coriander"
+    ],
+    [
+        "mushroom",
+        "shiitake mushroom"
+    ],
+    [
+        "wood ear fungus",
+        "tremella"
+    ],
+    [
+        "tofu",
+        "soy milk"
+    ],
+    [
+        "chicken egg",
+        "duck egg"
+    ],
+    [
+        "quail egg",
+        "pigeon egg"
+    ],
+    [
+        "cow's milk",
+        "goat's milk"
+    ],
+    [
+        "honey",
+        "maple syrup"
+    ],
+    [
+        "olive oil",
+        "peanut oil"
+    ],
+    [
+        "canola oil",
+        "corn oil"
+    ],
+    [
+        "soy sauce",
+        "light soy sauce"
+    ],
+    [
+        "vinegar",
+        "aged vinegar"
+    ],
+    [
+        "doubanjiang",
+        "yellow bean paste"
+    ],
+    [
+        "ketchup",
+        "sauce"
+    ],
+    [
+        "bread",
+        "toast"
+    ],
+    [
+        "steamed bun",
+        "twisted roll"
+    ],
+    [
+        "biscuit",
+        "cookie"
+    ],
+    [
+        "cake",
+        "mousse"
+    ],
+    [
+        "fruit",
+        "vegetable"
+    ],
+    [
+        "strawberry",
+        "blueberry"
+    ],
+    [
+        "peach",
+        "plum"
+    ],
+    [
+        "watermelon",
+        "cantaloupe"
+    ],
+    [
+        "grape",
+        "raisin"
+    ],
+    [
+        "banana",
+        "mango"
+    ],
+    [
+        "orange",
+        "grapefruit"
+    ],
+    [
+        "lemon",
+        "lime"
+    ],
+    [
+        "pineapple",
+        "pina"
+    ],
+    [
+        "apricot",
+        "almond"
+    ],
+    [
+        "walnut",
+        "cashew"
+    ],
+    [
+        "peanut",
+        "sunflower seed"
+    ],
+    [
+        "almond",
+        "hazelnut"
+    ],
+    [
+        "pistachio",
+        "pine nut"
+    ]
+]
