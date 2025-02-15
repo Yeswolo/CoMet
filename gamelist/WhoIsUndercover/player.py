@@ -1,5 +1,5 @@
 from gamelist.WhoIsUndercover.prompt import base_prompt
-from gamelist.WhoIsUndercover.prompt import ComMet as FISA
+from gamelist.WhoIsUndercover.prompt import CoMet as FISA
 from utils import call_api
 import config
 import re
@@ -56,13 +56,13 @@ class Player:
         if self.mode == 0:
             return self.player_speaking_cot(self.role, self.word, round_dialogue = round_dialogue, game_history = game_history, dialogue_history = dialogue_history)
         elif self.mode == 1:
-            return self.player_speaking_ComMet(round_dialogue = round_dialogue, game_history = game_history, dialogue_history = dialogue_history, vote_history = vote_history)
+            return self.player_speaking_CoMet(round_dialogue = round_dialogue, game_history = game_history, dialogue_history = dialogue_history, vote_history = vote_history)
 
     def vote(self, *args, game_history=None, dialogue_history = None, round_dialogue = None,alive = None,vote_history , **kwargs):
         if self.mode == 0:
             return self.player_voting_cot(game_history=game_history, alive = alive)
         elif self.mode == 1:
-            return self.player_voting_ComMet(round_dialogue = round_dialogue, game_history = game_history, dialogue_history = dialogue_history, vote_history = vote_history, alive=alive)
+            return self.player_voting_CoMet(round_dialogue = round_dialogue, game_history = game_history, dialogue_history = dialogue_history, vote_history = vote_history, alive=alive)
 
     def player_speaking_cot(self, *args, dialogue_history, round_dialogue, game_history, **kwargs):
         dialogue = "\n".join(dialogue_history)
@@ -211,7 +211,7 @@ class Player:
 
 
 
-    def player_speaking_ComMet(self, round_dialogue, game_history, dialogue_history, vote_history):
+    def player_speaking_CoMet(self, round_dialogue, game_history, dialogue_history, vote_history):
 
         dialogue = "\n".join(dialogue_history)
         # analyse
@@ -323,7 +323,7 @@ class Player:
 
 
 
-    def player_voting_ComMet(self, round_dialogue, game_history, dialogue_history, vote_history, alive):
+    def player_voting_CoMet(self, round_dialogue, game_history, dialogue_history, vote_history, alive):
 
         dialogue = "\n".join(dialogue_history)
         # analyse

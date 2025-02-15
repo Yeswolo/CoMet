@@ -30,7 +30,7 @@ WIU_u_mode = 1
 """
 player mode:
 0:CoT
-1:ComMet
+1:CoMet
 """
 
 
