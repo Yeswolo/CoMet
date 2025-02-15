@@ -1,7 +1,6 @@
 # Introduction
 
-This project includes the main body of our designed undercover game, where users can play as citizens and undercover agents using CoT and our proposed CoMet.
-More content related to metaphorical experience may be uploaded later.
+This project includes the main body of our designed undercover game, where users can play as civilians and undercovers using CoT and our proposed CoMet.
 
 # File structure
 ```
