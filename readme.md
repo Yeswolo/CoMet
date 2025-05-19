@@ -24,7 +24,7 @@ Project/
 2. Run main.py
 
 # Configure different parameters
-Change directly in config. py
+Change directly in config.py
 You can modify the parameters of the running rounds/LLM/specific parameters of the game, including the number of players, the use of agent mode in the game, etc
 
 # Structure Introduction
@@ -42,7 +42,12 @@ Main.py is the entrance to start the game
 
 Config.py defines various parameters
 
-Utls.py defines the relevant functions for calling LLM
+Utils.py defines the relevant functions for calling LLM
 
+
+
+# Related Work
+
+We recommend that you use our follow-up work, CK-Arena: https://CK-Arena.site to conduct research on Undercover games. This is our LLM testing benchmark designed based on Undercover, which includes better game logic, anti-crash mechanisms, and prompts. We are still working on the follow-up work of undercover, mainly updating it on the CK-Arena homepage.
 
 
