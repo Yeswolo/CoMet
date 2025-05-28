@@ -60,18 +60,21 @@ The following content shows the experimental results of our work. The comparison
 
 
 ![](docs/table.png)
-Performance comparison of different methods relative to two baselines in Undercover game
-  
-  
-  
+Performance comparison of different methods relative to two baselines in Undercover game.
+<br>
+<br>
+<br>
+
 ![](docs/radar.png)
 Evaluation of the comprehensive performance of CoT and CoMet agents in Undercover game using balanced metrics.
-  
-  
-  
+<br>
+<br>
+<br>
 
 ## Related Work
 
-We recommend that you use our follow-up work, CK-Arena: https://CK-Arena.site to conduct research on Undercover games. This is our LLM testing benchmark designed based on Undercover, which includes better game logic, anti-crash mechanisms, and prompts. We are still working on the follow-up work of undercover, mainly updating it on the CK-Arena homepage.
+We recommend that you use our follow-up work, <a href="https://CK-Arena.site">
+  <button style="background-color:rgb(99, 67, 231); color: white; padding: 10px 20px; border: none; border-radius: 5px; text-align: center; font-size: 16px;">CK-Arena</button>
+</a> to conduct research on Undercover games. This is our LLM testing benchmark designed based on Undercover, which includes better game logic, anti-crash mechanisms, and prompts. We are still working on the follow-up work of undercover, mainly updating it on the CK-Arena homepage.
 
 
