@@ -3,7 +3,7 @@
 Comparison of three communication strategies—Straightforward Description, Concealment, and Metaphorical Description—in Undercover. In this example, a civilian describes a “butterfly”, and the reactions of the two players are shown. In the Straightforward method, the civilian successfully identifies their teammate, but the undercover agent guesses the word. In Concealment, the civilian’s vague clue leads to confusion, with the undercover agent failing to guess the word and the civilian unable to identify their teammate. The Metaphor method allows the civilian to subtly describe the word, leading to a correct identification by the civilian agent, while the undercover agent fails to guess the word.
 
 
-You can Check our paper
+You can check our paper
 <a href="https://arxiv.org/abs/2505.18218">
   <button style="background-color:rgb(99, 67, 231); color: white; padding: 10px 20px; border: none; border-radius: 5px; text-align: center; font-size: 16px;">here</button>
 </a>
@@ -61,14 +61,14 @@ The following content shows the experimental results of our work. The comparison
 
 ![](docs/table.png)
 Performance comparison of different methods relative to two baselines in Undercover game
-
-
-
+  
+  
+  
 ![](docs/radar.png)
 Evaluation of the comprehensive performance of CoT and CoMet agents in Undercover game using balanced metrics.
-
-
-
+  
+  
+  
 
 ## Related Work
 
